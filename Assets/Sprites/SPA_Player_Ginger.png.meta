@@ -119,10 +119,10 @@ TextureImporter:
       name: SPA_Player_Ginger_0
       rect:
         serializedVersion: 2
-        x: 4
+        x: 0
         y: 196
-        width: 24
-        height: 28
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,8 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae9e7fd3ae7904b93834af38cb07f775
-      internalID: 1575364563
+      spriteID: 9b68596ebcae04e278de5bcb4f9ee86f
+      internalID: -1880312343
       vertices: []
       indices: 
       edges: []
@@ -140,10 +140,10 @@ TextureImporter:
       name: SPA_Player_Ginger_1
       rect:
         serializedVersion: 2
-        x: 44
+        x: 38
         y: 196
-        width: 24
-        height: 28
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,8 +151,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5774a1d0c24244309959e1571e58ba9
-      internalID: -1213899029
+      spriteID: da2b636afbabf43e4aa0a57e2cd768c2
+      internalID: -1089727280
       vertices: []
       indices: 
       edges: []
@@ -161,10 +161,10 @@ TextureImporter:
       name: SPA_Player_Ginger_2
       rect:
         serializedVersion: 2
-        x: 80
+        x: 76
         y: 196
-        width: 24
-        height: 30
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,8 +172,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3afbbab317a51416aa7d319d1edf4091
-      internalID: 1188260965
+      spriteID: eec4937024ddc41c6a1ff1139af75276
+      internalID: 1317198547
       vertices: []
       indices: 
       edges: []
@@ -182,10 +182,10 @@ TextureImporter:
       name: SPA_Player_Ginger_3
       rect:
         serializedVersion: 2
-        x: 118
+        x: 114
         y: 196
-        width: 24
-        height: 28
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,8 +193,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f91ea14dad0384cc8ac2ee0f76d16295
-      internalID: -445662690
+      spriteID: eec4dacc6c43b42e6b01e728fca5d0a9
+      internalID: 1371348769
       vertices: []
       indices: 
       edges: []
@@ -203,10 +203,10 @@ TextureImporter:
       name: SPA_Player_Ginger_4
       rect:
         serializedVersion: 2
-        x: 154
+        x: 152
         y: 196
-        width: 24
-        height: 28
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,8 +214,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1203f2953f2841d4a4edd973320ccc3
-      internalID: 1204627441
+      spriteID: c4bbe6a5f42c943e39ab087e8d0182c3
+      internalID: -1807684916
       vertices: []
       indices: 
       edges: []
@@ -224,10 +224,10 @@ TextureImporter:
       name: SPA_Player_Ginger_5
       rect:
         serializedVersion: 2
-        x: 4
+        x: 0
         y: 158
-        width: 22
-        height: 28
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,8 +235,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a81abc61abe94aff8df312c7e22f279
-      internalID: -2100905603
+      spriteID: 59cc27235a5834721adebb09443ae69b
+      internalID: 449008901
       vertices: []
       indices: 
       edges: []
@@ -245,10 +245,10 @@ TextureImporter:
       name: SPA_Player_Ginger_6
       rect:
         serializedVersion: 2
-        x: 40
+        x: 38
         y: 158
-        width: 24
-        height: 26
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,8 +256,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85a21b3e57661401380f8f28e9d958b9
-      internalID: -1254680004
+      spriteID: 624a6619e4996441989f586abbb45a8f
+      internalID: 1066849198
       vertices: []
       indices: 
       edges: []
@@ -266,10 +266,10 @@ TextureImporter:
       name: SPA_Player_Ginger_7
       rect:
         serializedVersion: 2
-        x: 80
+        x: 76
         y: 158
-        width: 22
-        height: 26
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,8 +277,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f1be98150a284930883291b2a613d9b
-      internalID: -387853857
+      spriteID: 0edc767a137994f4b99ff5e92c22c5e3
+      internalID: 47730828
       vertices: []
       indices: 
       edges: []
@@ -287,10 +287,10 @@ TextureImporter:
       name: SPA_Player_Ginger_8
       rect:
         serializedVersion: 2
-        x: 118
+        x: 114
         y: 158
-        width: 22
-        height: 28
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -298,8 +298,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 733659c644f8b405a88f4393fc483f39
-      internalID: 1621782906
+      spriteID: d81cb93e7a79848b4ac2467c102e833a
+      internalID: 278090475
       vertices: []
       indices: 
       edges: []
@@ -308,10 +308,10 @@ TextureImporter:
       name: SPA_Player_Ginger_9
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 120
-        width: 22
-        height: 26
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -319,8 +319,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc8a4feac7b764709ac7da8b69ab4e0d
-      internalID: 819434672
+      spriteID: 3f8ecb4b0133a4f709ad2a95742b1dfb
+      internalID: 874519624
       vertices: []
       indices: 
       edges: []
@@ -329,10 +329,10 @@ TextureImporter:
       name: SPA_Player_Ginger_10
       rect:
         serializedVersion: 2
-        x: 44
-        y: 122
-        width: 22
-        height: 16
+        x: 38
+        y: 120
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,8 +340,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 247ab43d5601248ccbc45d62aaee9a3e
-      internalID: -196202519
+      spriteID: 37169b105ffca495c9c323a7d04eeec7
+      internalID: 551364707
       vertices: []
       indices: 
       edges: []
@@ -350,10 +350,10 @@ TextureImporter:
       name: SPA_Player_Ginger_11
       rect:
         serializedVersion: 2
-        x: 82
-        y: 122
-        width: 20
-        height: 20
+        x: 76
+        y: 120
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -361,8 +361,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d969228861434cb2b1f78ae4ed438c0
-      internalID: -86393457
+      spriteID: 3c2eca61f4d7847e5b247f5045db03ba
+      internalID: -1081232563
       vertices: []
       indices: 
       edges: []
@@ -371,10 +371,10 @@ TextureImporter:
       name: SPA_Player_Ginger_12
       rect:
         serializedVersion: 2
-        x: 118
-        y: 122
-        width: 20
-        height: 18
+        x: 114
+        y: 120
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -382,8 +382,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9dcb0ef08e2d146a7b325b10248d9954
-      internalID: 635611876
+      spriteID: 40dfcb1bfeed0454ca8807c1f552e890
+      internalID: -187747768
       vertices: []
       indices: 
       edges: []
@@ -392,10 +392,10 @@ TextureImporter:
       name: SPA_Player_Ginger_13
       rect:
         serializedVersion: 2
-        x: 156
+        x: 152
         y: 120
-        width: 24
-        height: 26
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -403,8 +403,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2cae692440473423f82eb071b36d67e3
-      internalID: -1488148082
+      spriteID: 0ca61c55c9da24e1a93e8e48e0602d9b
+      internalID: -879763280
       vertices: []
       indices: 
       edges: []
@@ -413,10 +413,10 @@ TextureImporter:
       name: SPA_Player_Ginger_14
       rect:
         serializedVersion: 2
-        x: 6
+        x: 0
         y: 82
-        width: 22
-        height: 28
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -424,8 +424,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b6453682ec1a41f49db5dd7d87bfb44
-      internalID: 591043819
+      spriteID: 2e1bef66a9ce247e58e975b05c68c9f4
+      internalID: 653180388
       vertices: []
       indices: 
       edges: []
@@ -434,10 +434,10 @@ TextureImporter:
       name: SPA_Player_Ginger_15
       rect:
         serializedVersion: 2
-        x: 44
+        x: 38
         y: 82
-        width: 22
-        height: 28
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -445,8 +445,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e9f65675003e4e8ead081f21517ea58
-      internalID: 853694470
+      spriteID: 8f436dc76ae4145f6b3bd18440c3d62c
+      internalID: 1964056660
       vertices: []
       indices: 
       edges: []
@@ -455,10 +455,10 @@ TextureImporter:
       name: SPA_Player_Ginger_16
       rect:
         serializedVersion: 2
-        x: 4
-        y: 48
-        width: 22
-        height: 28
+        x: 0
+        y: 44
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -466,8 +466,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed07e77f1347943749c23da04935a1f8
-      internalID: 218000263
+      spriteID: 0b92cd559879f42158789964acd6915b
+      internalID: 1255171690
       vertices: []
       indices: 
       edges: []
@@ -476,10 +476,10 @@ TextureImporter:
       name: SPA_Player_Ginger_17
       rect:
         serializedVersion: 2
-        x: 40
-        y: 48
-        width: 24
-        height: 28
+        x: 38
+        y: 44
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -487,8 +487,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44c26d5f8b68045b594b091b29fc40ae
-      internalID: 487017767
+      spriteID: a48ffd406c3514c00ab7d40942cff0ce
+      internalID: -1845270112
       vertices: []
       indices: 
       edges: []
@@ -497,10 +497,10 @@ TextureImporter:
       name: SPA_Player_Ginger_18
       rect:
         serializedVersion: 2
-        x: 88
-        y: 48
-        width: 20
-        height: 28
+        x: 76
+        y: 44
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -508,8 +508,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fedc784ee72e45628e599368dc0a574
-      internalID: 1724945073
+      spriteID: 7e90599b1c2ba438aa2835cec19636af
+      internalID: 293461540
       vertices: []
       indices: 
       edges: []
@@ -518,10 +518,10 @@ TextureImporter:
       name: SPA_Player_Ginger_19
       rect:
         serializedVersion: 2
-        x: 4
+        x: 0
         y: 6
-        width: 22
-        height: 28
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -529,8 +529,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 498da29ce75da45fe9a9e2a76bdc0eb5
-      internalID: 1695108234
+      spriteID: 9ed5d8883e13e40049bf816e4e9e5087
+      internalID: -426966970
       vertices: []
       indices: 
       edges: []
@@ -539,10 +539,10 @@ TextureImporter:
       name: SPA_Player_Ginger_20
       rect:
         serializedVersion: 2
-        x: 44
+        x: 38
         y: 6
-        width: 20
-        height: 28
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -550,8 +550,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3122b9581962a452eac851d00d3bc1ee
-      internalID: 209582800
+      spriteID: 7f923bd60558740138d69f480b419690
+      internalID: 1725814876
       vertices: []
       indices: 
       edges: []
@@ -560,10 +560,10 @@ TextureImporter:
       name: SPA_Player_Ginger_21
       rect:
         serializedVersion: 2
-        x: 82
-        y: 8
-        width: 20
-        height: 28
+        x: 76
+        y: 6
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -571,8 +571,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad4b18bdef7d84a048f0356e3a4b62f0
-      internalID: -299171909
+      spriteID: 5c8e4f019381949488e3a913fbbf031f
+      internalID: -249422545
       vertices: []
       indices: 
       edges: []
@@ -581,10 +581,10 @@ TextureImporter:
       name: SPA_Player_Ginger_22
       rect:
         serializedVersion: 2
-        x: 120
-        y: 10
-        width: 20
-        height: 28
+        x: 114
+        y: 6
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -592,8 +592,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 278b255e58cac44aeafbdf348761f3da
-      internalID: 2106430641
+      spriteID: 255a25bd6673941cda20c347a4fb85f1
+      internalID: -847636873
       vertices: []
       indices: 
       edges: []
@@ -602,10 +602,10 @@ TextureImporter:
       name: SPA_Player_Ginger_23
       rect:
         serializedVersion: 2
-        x: 158
-        y: 8
-        width: 20
-        height: 28
+        x: 152
+        y: 6
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -613,8 +613,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e60e83d203f94bc9a17851b233c5337
-      internalID: 1438029166
+      spriteID: f2f0597b0e63844259cf5b9f572b022d
+      internalID: 695044351
       vertices: []
       indices: 
       edges: []
@@ -623,10 +623,10 @@ TextureImporter:
       name: SPA_Player_Ginger_24
       rect:
         serializedVersion: 2
-        x: 194
-        y: 8
-        width: 22
-        height: 28
+        x: 190
+        y: 6
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -634,8 +634,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e3c270c422f34be5a9da3df72b9fcf6
-      internalID: -707532836
+      spriteID: 12fbea5b98085479888ab10ff6060f66
+      internalID: 84601155
       vertices: []
       indices: 
       edges: []
@@ -644,10 +644,10 @@ TextureImporter:
       name: SPA_Player_Ginger_25
       rect:
         serializedVersion: 2
-        x: 230
-        y: 8
-        width: 24
-        height: 28
+        x: 228
+        y: 6
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -655,8 +655,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99ab19b791d3f44d99faada37258f443
-      internalID: 510674966
+      spriteID: 15d8076a3d45349f480e7686d3ca8250
+      internalID: -544651529
       vertices: []
       indices: 
       edges: []
@@ -665,10 +665,10 @@ TextureImporter:
       name: SPA_Player_Ginger_26
       rect:
         serializedVersion: 2
-        x: 268
-        y: 12
-        width: 24
-        height: 26
+        x: 266
+        y: 6
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -676,8 +676,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c545c5035488342ac8938302dda50bfd
-      internalID: 952594520
+      spriteID: 5b98a64c4ee6c42e2ae7fa2164c62f2b
+      internalID: -1449559535
       vertices: []
       indices: 
       edges: []
@@ -686,10 +686,10 @@ TextureImporter:
       name: SPA_Player_Ginger_27
       rect:
         serializedVersion: 2
-        x: 306
-        y: 12
-        width: 24
-        height: 26
+        x: 304
+        y: 6
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -697,8 +697,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa0401e1f0ee9472484fb330236dd992
-      internalID: 813127899
+      spriteID: bb1ebe71444ba4677b1277ccb561b3c6
+      internalID: 169373683
       vertices: []
       indices: 
       edges: []
@@ -707,10 +707,10 @@ TextureImporter:
       name: SPA_Player_Ginger_28
       rect:
         serializedVersion: 2
-        x: 344
-        y: 10
-        width: 24
-        height: 26
+        x: 342
+        y: 6
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -718,8 +718,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84e4747952b474f8793a6ab9ed36f2bb
-      internalID: -1941555976
+      spriteID: 7681f305da64f403db2ff2482393b805
+      internalID: 325197045
       vertices: []
       indices: 
       edges: []
@@ -735,35 +735,35 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SPA_Player_Ginger_7: -387853857
-      SPA_Player_Ginger_3: -445662690
-      SPA_Player_Ginger_15: 853694470
-      SPA_Player_Ginger_1: -1213899029
-      SPA_Player_Ginger_28: -1941555976
-      SPA_Player_Ginger_19: 1695108234
-      SPA_Player_Ginger_23: 1438029166
-      SPA_Player_Ginger_2: 1188260965
-      SPA_Player_Ginger_0: 1575364563
-      SPA_Player_Ginger_14: 591043819
-      SPA_Player_Ginger_17: 487017767
-      SPA_Player_Ginger_16: 218000263
-      SPA_Player_Ginger_21: -299171909
-      SPA_Player_Ginger_9: 819434672
-      SPA_Player_Ginger_6: -1254680004
-      SPA_Player_Ginger_22: 2106430641
-      SPA_Player_Ginger_26: 952594520
-      SPA_Player_Ginger_24: -707532836
-      SPA_Player_Ginger_4: 1204627441
-      SPA_Player_Ginger_10: -196202519
-      SPA_Player_Ginger_12: 635611876
-      SPA_Player_Ginger_25: 510674966
-      SPA_Player_Ginger_18: 1724945073
-      SPA_Player_Ginger_13: -1488148082
-      SPA_Player_Ginger_20: 209582800
-      SPA_Player_Ginger_8: 1621782906
-      SPA_Player_Ginger_27: 813127899
-      SPA_Player_Ginger_11: -86393457
-      SPA_Player_Ginger_5: -2100905603
+      SPA_Player_Ginger_7: 47730828
+      SPA_Player_Ginger_3: 1371348769
+      SPA_Player_Ginger_15: 1964056660
+      SPA_Player_Ginger_1: -1089727280
+      SPA_Player_Ginger_28: 325197045
+      SPA_Player_Ginger_19: -426966970
+      SPA_Player_Ginger_23: 695044351
+      SPA_Player_Ginger_2: 1317198547
+      SPA_Player_Ginger_0: -1880312343
+      SPA_Player_Ginger_14: 653180388
+      SPA_Player_Ginger_17: -1845270112
+      SPA_Player_Ginger_16: 1255171690
+      SPA_Player_Ginger_21: -249422545
+      SPA_Player_Ginger_9: 874519624
+      SPA_Player_Ginger_6: 1066849198
+      SPA_Player_Ginger_22: -847636873
+      SPA_Player_Ginger_26: -1449559535
+      SPA_Player_Ginger_24: 84601155
+      SPA_Player_Ginger_4: -1807684916
+      SPA_Player_Ginger_10: 551364707
+      SPA_Player_Ginger_12: -187747768
+      SPA_Player_Ginger_25: -544651529
+      SPA_Player_Ginger_18: 293461540
+      SPA_Player_Ginger_13: -879763280
+      SPA_Player_Ginger_20: 1725814876
+      SPA_Player_Ginger_8: 278090475
+      SPA_Player_Ginger_27: 169373683
+      SPA_Player_Ginger_11: -1081232563
+      SPA_Player_Ginger_5: 449008901
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
