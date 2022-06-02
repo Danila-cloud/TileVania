@@ -28,9 +28,10 @@ public class GameSession : MonoBehaviour
     public void AddScore(int pointsToAdd)
     {
         score += pointsToAdd;
+        scoreText.text = score.ToString();
     }
 
-    void Update()
+    void Start()
     {
         livesText.text = PlayerLives.ToString();
         scoreText.text = score.ToString();
@@ -53,8 +54,9 @@ public class GameSession : MonoBehaviour
         SceneManager.LoadScene(currentSceneIndex);
         livesText.text = PlayerLives.ToString();
     }
-    void ResetSession()
+    public void ResetSession()
     {
+        FindObjectOfType<ScenePersist>().ResetScenePersist();
         SceneManager.LoadScene(0);
         Destroy(gameObject);
     }
