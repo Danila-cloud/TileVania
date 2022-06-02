@@ -60,6 +60,7 @@ public class PlayerMovement : MonoBehaviour
             isAlive = false;
             myAnimator.SetTrigger("Dead");
             myRigidbody.velocity = DeadMove;
+            FindObjectOfType<GameSession>().DEATH();
         }
     }
     void FlipSprite()
